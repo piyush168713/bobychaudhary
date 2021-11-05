@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobychaudhary&show_icons=true&locale=en" alt="bobychaudhary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobychaudhary&" alt="bobychaudhary" /></p>
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
