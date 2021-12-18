@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobychaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="bobychaudhary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma&theme=matrix/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobychaudhary" alt="bobychaudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma&theme=dark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobychaudhary" alt="bobychaudhary" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs**
 
