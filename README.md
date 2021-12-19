@@ -20,7 +20,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 - ⚡ Fun fact **I think I am 💭**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free reaching out to me at following platforms::</h3>
 
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/boby-chaudhary-a53648167/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/bobychaudhary_)
