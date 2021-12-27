@@ -18,7 +18,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 - 📫 How to reach me **bobychaudhary708@gmail.com**
 
-- ⚡ Fun fact **I think I am 💭**
+- Ask me about anything [here](https://github.com/bobychaudhary/bobychaudhary/issues)
 
 <h3 align="left">Feel free reaching out to me at following platforms::</h3>
 
