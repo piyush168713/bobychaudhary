@@ -204,7 +204,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
     </td>
   </tr>
     
-</table> <p><img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftroll-face-smile-gifs&psig=AOvVaw1eQVZhEKAol5Vh5OR-9n-6&ust=1640748239694000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjX29TFhfUCFQAAAAAdAAAAABAD" height=300 width==300></p>
+</table> <p><img  src="https://tenor.com/view/linux-sudo-apt-computer-gif-23608006" height=300 width==300></p>
 
 
 
