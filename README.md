@@ -204,7 +204,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
     </td>
   </tr>
     
-</table> <p><img  src="https://tenor.com/view/linux-sudo-apt-computer-gif-23608006" height=300 width==300></p>
+</table> <p><img  src="https://c.tenor.com/jp_oNluNgeAAAAAC/linux-sudo-apt.gif" height=300 width==300></p>
 
 
 
