@@ -28,7 +28,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 
 
-<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
+<h2 align="left" id="#bobychaudhary">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -42,25 +42,25 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
       </a>
       <br>Azure
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
