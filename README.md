@@ -78,13 +78,13 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
      <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
