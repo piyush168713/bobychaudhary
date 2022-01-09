@@ -86,31 +86,31 @@ Meticulous and motivated undergraduate student , indulged in competitive program
   
   <tr>
     <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
       <br>C Lang
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
       </a>
       <br>Gatsby
     </td>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
       </a>
       <br>Electron
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
