@@ -1,37 +1,30 @@
-<h1 align="center"># Hello, folks! 
+<!-- markdownlint-disable-next-line -->
+<h1 align="center">Hello, folks! 
 <h3 align="center">A passionate Half Stack developer</h3>
-  
-Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast.   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobychaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="bobychaudhary" /> </p>
+Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast.
 
-
-  
- ![](https://github-profile-trophy.vercel.app/?username=bobychaudhary&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bobychaudhary&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
 </br>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **React**
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **bobychaudhary708@gmail.com**
+- 📫 How to reach me: **bobychaudhary708@gmail.com**
 
 - Ask me about anything [here](https://github.com/bobychaudhary/bobychaudhary/issues)
 
 <h3 align="left">Feel free reaching out to me at following platforms::</h3>
 
-  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/boby-chaudhary-a53648167/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/bobychaudhary_)
 [<img src = "https://img.shields.io/badge/instagram-%2320A1F1.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bobychaudhary.__/)
-
-
 
 <h2 align="left" id="#bobychaudhary">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
-
 
 <table align="center">
   <tr>
@@ -176,7 +169,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <a href="#suhailakar-tech">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Material ui
+      <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -203,10 +196,8 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <br>G Cloud
     </td>
   </tr>
-    
+
 </table> <p><img  src="https://c.tenor.com/jp_oNluNgeAAAAAC/linux-sudo-apt.gif" height=450 width=450></p>
-
-
 
   <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bobychaudhary&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
@@ -214,4 +205,3 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=bobychaudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
