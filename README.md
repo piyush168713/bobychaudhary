@@ -197,7 +197,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
     </td>
   </tr>
 
-</table> <p><img  src="https://c.tenor.com/jp_oNluNgeAAAAAC/linux-sudo-apt.gif" height=450 width=450></p>
+</table>
 
   <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bobychaudhary&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
@@ -205,3 +205,5 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=bobychaudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<p><img  src="https://c.tenor.com/jp_oNluNgeAAAAAC/linux-sudo-apt.gif" height=450 width=450></p>
+ 
